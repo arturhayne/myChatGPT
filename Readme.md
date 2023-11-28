@@ -1,9 +1,9 @@
 ## ChatGPT playground
 
-Just playing with chatgpt.
- 'completions.php': Uses completion to complete a sentece. Concept used in co-pilot or emails to auto complete sentences.
-  'chat.php': An example just to show up that we always need to send the history of messages to chatgpt has a context of the questions.
-   'chat-conversation.php': A chat interaction using command line.
+Just playing with chatgpt
+ - 'completions.php': Uses completion to complete a sentece. Concept used in co-pilot or emails to auto complete sentences.
+ - 'chat.php': An example just to show up that we always need to send the history of messages to chatgpt has a context of the questions.
+ - 'chat-conversation.php': A chat interaction using command line.
 
 ## Usage
 
