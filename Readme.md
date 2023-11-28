@@ -26,5 +26,5 @@ exit
  1. `docker-compose up -d`
  2. `docker-compose exec web bash` (command to get inside the container)
  3. `composer install` (inside container)
- 4. `cp .env_example .env` (update OPEN_API_KEY variable)
+ 4. `cp .env.example .env` (update OPEN_API_KEY variable)
  6. `php chat-conversation.php` 
